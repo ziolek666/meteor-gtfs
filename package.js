@@ -15,7 +15,7 @@ Npm.depends({
     "mongoose": "3.6.20",
     "async": "0.2.10",
     "csv": "0.3.7",
-    "unzip": "0.1.9",
+    "unzip2": "0.2.5",
     "mongodb": "1.4.18"
 });
 

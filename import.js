@@ -13,7 +13,7 @@ importFromZip = function(agency, zipfile) {
             , path = Npm.require('path')
             , csv = Npm.require('csv')
             , async = Npm.require('async')
-            , unzip = Npm.require('unzip')
+            , unzip = Npm.require('unzip2')
             , Db = Npm.require('mongodb').Db
             , os = Npm.require('os')
             , q;
